@@ -1,3 +1,3 @@
-# Intern-Highradius-Consulting-Tasks:
+# Intern-Highradius-Consulting-Tasks
 
 Highradius Internship in Consulting.
